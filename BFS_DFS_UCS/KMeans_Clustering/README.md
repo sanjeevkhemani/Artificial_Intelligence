@@ -4,27 +4,28 @@ Programming Language R
 
 The main focus of the project was an introduction to clustering which can be applied for outlier detection and unsupervised image segmentation, etc. We used one of the most widely used clustering algorithms, the K-Means algorithm. We implemented a not in-built form of the K-Means function. We utilized a toy data sets for this project and plotted results to show the formed clusters. The implementation of the aforementioned program was done in the programming language R.
 
-Implementation:
+<center>Implementation:</center>
+
 ![image](https://user-images.githubusercontent.com/54830217/212595495-a0f0544c-462f-4aed-b1a2-8fe957e69ae1.png)
 
 
+<center>Dataset:</center>
 
-
-Dataset:
 ![image](https://user-images.githubusercontent.com/54830217/212595529-48701034-e16d-4816-9431-75b84c09ea72.png)
  
 
-Classification:
+<center>Classification:</center>
+
 ![image](https://user-images.githubusercontent.com/54830217/212595555-a8d29416-94f7-4af8-8c75-73ffe0107508.png)
 
 
+<center>Centroids:</center>
 
-
-Centroids:
 ![image](https://user-images.githubusercontent.com/54830217/212595577-364eda7d-0b70-4ce5-8e6a-77e155bcaad8.png)
- 
 
-Scatter Plot (BONUS):
+
+<center>Scatter Plot:</center>
+
 ![image](https://user-images.githubusercontent.com/54830217/212595598-3c853afc-37f1-4b8d-983c-63db280d4477.png)
 
 
