@@ -1,6 +1,7 @@
 
-![BFS](https://user-images.githubusercontent.com/54830217/212589505-08b39f23-63d4-4c49-a1fc-493e91f46202.jpg)
-<center>Breadth First Search Sample Run</center>
+
+<center>![BFS](https://user-images.githubusercontent.com/54830217/212589505-08b39f23-63d4-4c49-a1fc-493e91f46202.jpg)
+Breadth First Search Sample Run</center>
 
 
 
